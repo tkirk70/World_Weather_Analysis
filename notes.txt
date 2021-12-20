@@ -3,3 +3,13 @@ randint(-90, 89)	Returns an integer between the interval, -90 and up to 89.	Will
 random()	Returns a floating-point decimal number between 0 and 1.	Will not generate a whole integer.
 randrange(-90, 90, step=1)	Returns a whole integer between the interval, -90 and 90 where the step is the difference between each number in the sequence.	Will not generate a floating-point decimal number.
 uniform(-90, 90)	Returns a floating-point decimal number between the interval, -90 and 90.	Will not generate a whole integer.
+
+
+Request Method	Action
+get()	Retrieves data from a web source.
+head()	Retrieves the headers from a web source.
+post()	Adds or annotates data on a web source. Used on mailing groups, message boards, or comments.
+put()	Updates an existing resource. For example, if the date on a Wikipedia page is wrong, you can use the put() method to update that date.
+delete()	Deletes data from a web source.
+options()	Discovers what HTTP methods a web source allows.
+patch()	Partially modifies a web source.
