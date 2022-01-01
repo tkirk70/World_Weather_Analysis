@@ -6,4 +6,4 @@ OSU Module 6 WeatherPy with Python APIs
  - Then we used the unique city results to create a database including lat, long, city and country and current weather conditions.
 
 ## The second section made use of google maps apis to generate maps and visualizations for our trip.
-- ![](Vacation_Itinerary/WeatherPy_travel_map.PNG)
+![](Vacation_Itinerary/WeatherPy_travel_map.PNG)
