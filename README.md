@@ -7,3 +7,4 @@ OSU Module 6 WeatherPy with Python APIs
 
 ## The second section made use of google maps apis to generate maps and visualizations for our trip.
 ![](Vacation_Itinerary/WeatherPy_travel_map.PNG)
+![](Vacation_Search/WeatherPy_vacation_map.PNG)
