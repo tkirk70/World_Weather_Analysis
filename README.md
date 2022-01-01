@@ -8,3 +8,14 @@ OSU Module 6 WeatherPy with Python APIs
 
 ## The second section made use of google maps apis to generate maps and visualizations for our trip.
 ![](Vacation_Itinerary/WeatherPy_travel_map.PNG)
+
+## Resources
+ - Conda 4.10.3
+ - Python 3.7.11
+ - Pandas
+ - gmaps
+ - Numpy
+ - requests 2.26.0
+ - API's
+   - https://openweathermap.org/api
+   - https://console.cloud.google.com/google/maps-apis
